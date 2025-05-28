@@ -1,0 +1,24 @@
+{
+    "Kanban":[
+        {
+            "pendientes": {
+                "Titulo de tarea":"Proyecto de Python",
+                "Descripcion":"Entregar una gestion de libros, musica, listas y imagenes",
+                "Fecha de inicio":"25/02/2025",
+                "Fecha de finalizacion":"28/02/2025"
+            },
+            "progresos": {
+                "Titulo de tarea":"Proyecto de scrum",
+                "Descripcion":"Entregar un video, un informe de como resolvieron una pagina web y presentacion",
+                "Fecha de inicio":"18/03/2025",
+                "Fecha de finalizacion":"22/03/2025"
+            },
+            "completados": {
+                "Titulo de tarea":"Proyecto de JavaScript",
+                "Descripcion":"Crear una pagina web con tematica de videojuego, permitiendo al usuario ver las tarjetas de los personajes y hacer un combate.",
+                "Fecha de inicio":"20/05/2025",
+                "Fecha de finalizacion":"25/05/2025"
+            }
+        }
+    ]
+}
